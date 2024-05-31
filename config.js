@@ -20,7 +20,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Comunicaciones_JCMF_2/Logo_Corriente_Alterna.png',
+            image: 'C:/Comunicaciones_JCMF_2/Logo_Corriente_Alterna.png',
             description: '<b>El teléfono de Julio César Mondragón se mantuvo activo meses después de su asesinato y sostuvo 31 comunicaciones con 15 teléfonos diferentes entre el 27 de septiembre de 2014 y el 4 de abril de 2015. Varios de ellos se ubicaban cerca y al interior del Campo militar 1 y del Centro de Investigación y Seguridad Nacional (Cisen), durante estas actividades. <br> <br>Corriente Alterna tuvo acceso a esta sábana de llamadas y siguió la ruta de estos contactos y lo contrastó con el nuevo informe de la Comisión de la Verdad.</b>',
             location: {
                 center: [-99.07916, 18.05431],
